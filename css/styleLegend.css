@@ -1,0 +1,45 @@
+.leaflet-control-graphicscale {
+    background-color: rgb();
+    background-image: url(noise.png);
+    padding: 5px 5px 0px 0px;
+    box-shadow: 0px 0px 30px rgba();
+    color: rgb(0, 0, 0);
+}
+
+.leaflet-control-graphicscale .label {
+    font-family: 'Times New Roman', serif;
+    font-size: 14px;
+    margin-bottom: 1px;
+
+}
+.leaflet-control-graphicscale .labelSub {
+    font-size: 14px;
+    margin-bottom: 1px;
+}
+
+.leaflet-control-graphicscale .line {
+    border-color: rgb(0, 0, 0);
+}
+
+.leaflet-control-graphicscale .filled .fill {
+    background-color: rgb(0, 0, 0);
+}
+
+.scaleText {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.scaleText h1, .scaleText p {
+    margin: 0;
+}
+
+.scaleText h1 {
+    font-family: 'Times New Roman', serif;
+    font-size: 20px;
+
+}
+.scaleText .choice {
+    margin: 0 5px;
+    cursor: pointer;
+}
